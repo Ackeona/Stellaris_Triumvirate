@@ -1,67 +1,67 @@
 ﻿### Commonwealth of Man
 ### Created by Henrik Thyrwall
 
-HUMAN2 = {
+breton = {
 	category = "Humanoid"
 	randomized = no
-	alias = "Human2"
+	alias = "Breton"
 
 	ship_names = {
-
+			###
 		corvette = {
-			Agile Archer Arrow Bruiser Cherub Chimera Claymore Broadsword Battleaxe Cutlass Deterrent Errant Faithful Fierce Gladius Grappler Hammer Vampire Velox Venator Vendetta Venerable Venomous Taciturn Supreme Success Shredder Seraph Serpent Spitfire Stalker Stratagem Scimitar Scorcher Scourge Scythe Revenant Redoubtable Raptor Reaver Prodigal Rapier Prudent Persistent Peerless Myrmidon Indignant Javelin Knight Starwolf Bonaventure Adventure Boxer Buccaneer Cavalier Celestial Chariot Comet Crucible Cyclone Decisive Dexterous Diadem Earnest Eclipse Forger Fortune Gauntlet Griffin Horizon Hotspur Hurricane Hussar Jubilant Lancer Lightning Magic Mediator Mermaid Meteor Minstrel Miranda Mustang Sharpshooter Mystic Naiad Nautilus Nebula Nimble "North Star" Nymph Obdurate Ocean Onward Oracle Paradox Paragon Pearl Peregrine Perseverance Marksman Rifleman Sniper Maelstrom Lucidity Berserker Brigand Celerity Cudgel Cuirass Growler Incubus Prowler Fury Fireball Dart Falchion Spadroon Longsword Bolo Spatha Xiphos Mirage Snapper Firebrand Ambuscade "Ad Astra" Attack Buckler Conquest Domino Gemini Glaive Halberd Harpy Kite Petard Regal Reprise Skirmisher Sprite Succubus Tisiphone Alecto Megaera Troubadour Balladeer Bard Cannonball Horatius Rampart Serenader Dirk Epee Glimmer Cockatrice
+			
 		}
 
 		destroyer = {
-			Cyclops Centaur Adversary Assassin Dagger Daring Duty Havoc Hero Hunter Justice Impeccable Interceptor Infernal Loyal Matchless Mauler Mayhem Malice Menace Merciless Mischief Monarch Patriot Predator Powerful Punisher Ravager Reaper Savage Spiteful Templar Terminator Terror Thrasher Minotaur Manticore Interdictor Intruder Hydra Enfield Harasser Unbeaten Werewolf Zealous Petulant Phantom Phoenix Pike Pursuer Raider Rainbow Rapid Redemption Rigorous Robust Sabre Salvation Sanguine Scarab Scepter "Sea Witch" Siren Sorceress Spearhead Specter Spirit Splendid Stallion Stalwart Steadfast Strenuous Superb Supernova Surprise Swiftsure Talent Talisman Talon Taurus Tenacious "Thunder Child" Thunderous Tireless Trenchant Righteous Trident Trojan Trumpet Truncheon Typhoon Undaunted Venture Versatile Vigorous Viper Vivacious Winger Wizard Wyvern Wolfhound Trinity Outrage Argo Cygnus Awesome Trebuchet Avalanche Carronade Garm Demon Satyr Boanerges Erinyes Rakshasa Rephaim Sephiroth Alchemist Audacious Canticle Cantrip Culverin Goblin Hippogriff Impulse Inspired Intolerant Ironside Irresistible Magician Magus Mandrake Shaman Sorcerer Thaumaturge Truculent Turbulent Unconquered "War Maiden" Insuperable Ascendant Archangel Intransigent Warlock Paradigm Probity
+			
 		}
 
 		cruiser = {
-			Acheron Achilles Agamemnon Amphion Aquilon Argonaut Argus Ariel Aurora Avernus Bacchus Bucephalus Calliope Calypso Castor Charybdis Circe Cleopatra Constantine Cordelia Cyrus Damocles Daedalus Darius Diomede Dryad Electra Endymion Erebus Fenris Freya Gilgamesh Gorgon Halcyon Hecate Hector Hesperus Janus Jason Juno Jupiter Lancelot Lazarus Leander Leonidas Lysander Maenad Mars Medea Medusa Menestheus Mercury Merlin Minerva Minos Neptune Nessus Nestor Nimrod Niobe Oberon Odin Ophelia Orestes Orpheus Osiris Pandora Penelope Persephone Perseus Phoebe Pluto Poseidon Proteus Pylades Serapis Stygian Tantalus Telemachus Theseus Thor Trajan Triton Venus Adamant Ardent Assail Austere Adroit Aegis Anchor Corsair Banshee Enchantress Aggressor Assault Excellence Senator Tornado Usurper Utmost Whirlwind Athena Loki Anubis Uziel Cephalus Deimos Ares Mjolnir Fafnir Galahad Shiva Aeolus Ganymede Zephyrus Pharos Alastor Horus Anhur Amun Sekhmet Sobek Aeshma Toutatis Seraphim Idomeneus Ravana Abaddon Tiamat Taranis Hedetet Agni Arethusa Atropos Atum Chiron Gawain "King Arthur" Percival Tristan Ishtar Ivanhoe Marduk Menelaus Midas Ozymandias Parnassus Priam Thetis Xanthus Narayana Eris Boreas Thalassa Atreus Bellona Raijin Tyr Bastet Andromache Avalon Durendal Unswerving
+			
 		}
 
 		battleship = {
-			Vengeance Triumphant Nemesis Avenger Champion Conqueror Crusader Judicator Vanguard Renown Demolisher Dragon Furious Gladiator Magnificent Onslaught Revenge Vanquisher Vehement Basilisk Tempest Warrior Nike Paladin Sovereign Repulse Majestic Centurion Citadel Dreadnought Leviathan Katana Cerberus Valkyrie Hyperion Galatea Ambush Vindicator Indomitable Sentinel Brilliant Blazer Audacity Gallant Nova Shadow Allegiance Challenger Fearless Protector Victorious Courageous Defiance Valorous Azrael Thanatos Cronus Helios Crius Hades Epimetheus Prospero Untiring Zenith Meridian Conquistador Scylla Tormentor Warlord Devastator Artemis Vigilance Decimator Legion Reprisal Unrivalled Warhammer Retribution Infinity Eviscerator Eminence Relentless Archon Typhon Pinnacle Bastion Incomparable Invictus Requiem Dominance Armageddon Preponderous Consummate Perfection Incorruptible Impregnable Insurmountable Impenetrable Unbreakable Implacable Impervious Inexorable Unyielding Ogre Avatar
+			
 		}
 
 		titan = {
-			Prometheus Glory Immortal Goliath Imperator Executor
+			
 		}
 
 		colossus = {
-			Eradicator Behemoth Harbinger Annihilator Kraken
+			
 		}
 
 		juggernaut = {
-			Pendragon Doomsday Cataclysm Ragnarök Apocalypse
+			
 		}
 
 		science = {
-			Crescent Diligent Zephyr Enigma Arbiter Asperity Astute Alacrity Torch Remembrance Pilgrim Trailblazer Vagabond Wayfarer Ambassador Emissary Nomad Pathfinder Wanderer Traveler Acuity Sagacious Khonsu
+			
 		}
 
 		colonizer = {
-			Godspeed Prophecy "Manifest Destiny" Virtue Potential Expansion "Pioneer Spirit" Prosperity Summit Seeder Harvest Demeter Isis Ceres Exodus Foundation Scion Progeny Obligation Purpose Provider "Shining City" Acquirer Cultivator "Dawn of Civilization" Purity Community Brotherhood Heket
+			
 		}
 
 		sponsored_colonizer = { # needed when there are no generic names
-			Godspeed Prophecy "Manifest Destiny" Virtue Potential Expansion "Pioneer Spirit" Prosperity Summit Seeder Harvest Demeter Isis Ceres Exodus Foundation Scion Progeny Obligation Purpose Provider "Shining City" Acquirer Cultivator "Dawn of Civilization" Purity Community Brotherhood Heket
+			
 		}
 
 		constructor = {
-			Industry Assiduity Effort Laborer Builder Craftsman "Hard Hat" Progress Engineer Promise Service Shelter Beast Creator Developer Forger Foundry Factory Anvil Pillar Architect Accommodator Ptah Ilmarinen Creidhne Gobannus Luchtaine Goibniu Vishvakarman Tvastar Ikenga Qaynan Ucuetis Ogoun Longshoreman Stevedore
+			
 		}
 
 		transport = {
-			Falx Katzbalger Cinquedea Estoc Foil Flamberge Poignard Sword
+			
 		}
 
 		military_station_small = {
-			Dignity Distinction Discipline Recompense Paramount Constancy Tenacity Sedulity Diligence Pertinacity Exemplary Rectitude Integrity Prudence
+			
 		}
 
 		ion_cannon = {
-			Longbow Crossbow Arbalest Gargoyle Hellfire
+			
 		}
 
 	}
