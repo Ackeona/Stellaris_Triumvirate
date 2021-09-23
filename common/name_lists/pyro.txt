@@ -99,15 +99,15 @@ HUMAN2 = {
 		}
 
 		assault_army = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% 	Mot-Schützen Regiment"
 		}
 
 		slave_army = {
-			sequential_name = "%O% Janissary Corps"
+			sequential_name = "%O% Penal Battalion"
 		}
 
 		clone_army = {
-			sequential_name = "%O% Vatgrown Soldiery"
+			sequential_name = "%O% VDV Brigade"
 		}
 
 		undead_army = {
@@ -115,7 +115,7 @@ HUMAN2 = {
 		}
 
 		robotic_army = {
-			sequential_name = "%O% Unmanned Battlegroup"
+			sequential_name = "%O% Mot-Schützen Battlegroup"
 		}
 
 		robotic_defense_army = {
