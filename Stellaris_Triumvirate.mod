@@ -4,4 +4,4 @@ tags={
 }
 name="Stellaris_Triumvirate"
 supported_version="3.1.1"
-path="C:/Users/Samuel/Documents/Paradox Interactive/Stellaris/mod/Stellaris_Triumvirate"
+path="C:/**root**/Documents/Paradox Interactive/Stellaris/mod/Stellaris_Triumvirate"
