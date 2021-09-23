@@ -57,11 +57,11 @@ breton = {
 		}
 
 		military_station_small = {
-			
+			"Sentinelles %R%" 
 		}
 
 		ion_cannon = {
-			Watchtower
+			"Watchtower %R%"
 		}
 
 	}
