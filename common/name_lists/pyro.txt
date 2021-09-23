@@ -68,11 +68,10 @@ HUMAN2 = {
 
 	fleet_names = {
 		random_names = {
-			"Mediterranean Fleet" "Suez Fleet" "Gulf of Aden Fleet" "Strike Force Minotaur" "Strike Force Gorgon" "Strike Force Dragon"
-			"Strike Force Wyvern" "Strike Force Enfield" "Strike Force Centaur" "Strike Force Pegasus" "Strike Force Kraken" "Strike Force Charybdis"
-			"Strike Force Cerberus" "Strike Force Cyclops" "Strike Force Griffin" "Strike Force Phoenix" "Strike Force Scylla" "Strike Force Titan"
-			"Strike Force Hydra" "Strike Force Werewolf" "Strike Force Behemoth" "Strike Force Medusa" "Strike Force Sphinx" "Strike Force Hippogriff"
-			"Strike Force Garuda"
+			"Mediterranean Fleet" "Suez Fleet" "Persian Gulf Fleet" "Nippon Fleet" "North Atlantic Fleet" "English Channel Fleet"
+			"Panama Fleet" "South African Fleet" "North African Fleet" "East Indies Fleet" "West Indies Fleet" "Coral Fleet"
+			"South Pacific Fleet" "Baltic Fleet" "Black Sea Fleet" "North Pacific Fleet" "South Atlantic Fleet" "Socotran Fleet"
+			"Gibraltan Fleet" "Kiel Fleet" "Andaman Fleet" "Biscay Fleet" "Occitan Fleet" "Breton Fleet" "Pyro's Fleet"
 		}
 		sequential_name = "%O% Fleet"
 	}
@@ -80,7 +79,7 @@ HUMAN2 = {
 	army_names = {
 
 		generic = {
-			sequential_name = "%O% Colonial Gendarmerie"
+			sequential_name = "%O% Motostrelki Corps"
 		}
 
 		machine_defense = {
@@ -132,15 +131,11 @@ HUMAN2 = {
 		}
 
 		xenomorph_army = {
-			random_names = {
-				"Experimental Unit 'Rahab'" "Experimental Unit 'Jaculus'" "Experimental Unit 'Amaru'" "Experimental Unit 'Orochi'" "Experimental Unit 'Typhon'" "Experimental Unit 'Illuyanka'"
-				"Experimental Unit 'Bakunawa'" "Experimental Unit 'Fafnir'" "Experimental Unit 'Tarasque'" "Experimental Unit 'Tiamat'"
-			}
-			sequential_name = "%O% Morphling Marauders"
+			sequential_name = "%O% Experimental Unit"
 		}
 
 		gene_warrior_army = {
-			sequential_name = "%O% Eugenic Vanguard"
+			sequential_name = "%O% SpetsNaz Brigade"
 		}
 
 		occupation_army = {
