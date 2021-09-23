@@ -7,7 +7,7 @@ breton = {
 	alias = "Breton"
 
 	ship_names = {
-			###
+	
 		corvette = {
 			
 		}
@@ -61,46 +61,39 @@ breton = {
 		}
 
 		ion_cannon = {
-			
+			Watchtower
 		}
 
 	}
 
 	fleet_names = {
-		random_names = {
-			"Strike Force Manticore" "Strike Force Basilisk" "Strike Force Chimera" "Strike Force Minotaur" "Strike Force Gorgon" "Strike Force Dragon"
-			"Strike Force Wyvern" "Strike Force Enfield" "Strike Force Centaur" "Strike Force Pegasus" "Strike Force Kraken" "Strike Force Charybdis"
-			"Strike Force Cerberus" "Strike Force Cyclops" "Strike Force Griffin" "Strike Force Phoenix" "Strike Force Scylla" "Strike Force Titan"
-			"Strike Force Hydra" "Strike Force Werewolf" "Strike Force Behemoth" "Strike Force Medusa" "Strike Force Sphinx" "Strike Force Hippogriff"
-			"Strike Force Garuda"
-		}
-		sequential_name = "%O% Strike Force"
+		sequential_name = "%O% Fleet"
 	}
 
 	army_names = {
 
 		generic = {
-			sequential_name = "%O% Colonial Gendarmerie"
+			sequential_name = "%O% Brigade de Gendarmerie"
 		}
 
 		machine_defense = {
-			sequential_name = "%O% Colonial Gendarmerie"
+			sequential_name = "%O% Brigade de Gendarmerie"
 		}
 
 		machine_assault_1 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Assault Group"
 		}
 
 		machine_assault_2 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Assault Group"
 		}
 
 		machine_assault_3 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Assault Group"
 		}
 
 		assault_army = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Expeditionary Force"
 		}
 
 		slave_army = {
@@ -108,7 +101,7 @@ breton = {
 		}
 
 		clone_army = {
-			sequential_name = "%O% Vatgrown Soldiery"
+			sequential_name = "%O% Clone Brigade"
 		}
 
 		undead_army = {
@@ -116,11 +109,11 @@ breton = {
 		}
 
 		robotic_army = {
-			sequential_name = "%O% Unmanned Battlegroup"
+			sequential_name = "%O% Autonomous Battlegroup"
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Unmanned Gendarmerie"
+			sequential_name = "%O% Autonomous Security Group"
 		}
 
 		psionic_army = {
@@ -140,11 +133,11 @@ breton = {
 		}
 
 		gene_warrior_army = {
-			sequential_name = "%O% Eugenic Vanguard"
+			sequential_name = "%O% Genetic Vanguard"
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Occupation Legion"
+			sequential_name = "%O% Brigade de Paix"
 		}
 
 		robotic_occupation_army = {
@@ -309,7 +302,7 @@ breton = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Dauphin
 			}
 		}
 
@@ -343,12 +336,12 @@ breton = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Dauphin
 			}
 		}
 
 		names3 = {
-			weight = 40
+			weight = 15
 			first_names_male = {
 				An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei
 				You Yong Yi Xiong Wu
@@ -368,12 +361,12 @@ breton = {
 				Ai Bi Lian Lin Mei Na Ni Xiu Xue Yan Ying Yu Yuan
 			}
 			regnal_second_names = {
-				Wang Zhu Yang
+				Dauphin
 			}
 		}
 
 		names4 = {
-			weight = 15
+			weight = 40
 			first_names_male = {
 				Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
 				Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
@@ -397,12 +390,12 @@ breton = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Dauphin
 			}
 		}
 
 		names5 = {
-			weight = 15
+			weight = 40
 			first_names_male = {
 				Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
 				Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
@@ -425,7 +418,7 @@ breton = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Habsburg Romanov Windsor Mountbatten Salazar Nelson
+				Dauphin
 			}
 		}
 
@@ -451,7 +444,7 @@ breton = {
 				Nukatabe Toyomike Takara Niinomi Hidaka Takama Okiko Toshiko
 			}
 			regnal_second_names = {
-				"no Mikoto" Sumeramikoto Otomo Suijin Mononobe Yamato
+				Dauphin
 			}
 		}
 
@@ -477,12 +470,12 @@ breton = {
 				Saanvi Aanya Aadhya Aaradhya Ananya Priyanka Divya Mahima Shivangi
 			}
 			regnal_second_names = {
-				Kumar Moorthi Shastri Prasad Acharya Patil Gupta Sharma Namboodiri Pannikar Potti Kutty Varma Sondharam
+				Dauphin
 			}
 		}
 
 		names8 = {
-			weight = 25
+			weight = 15
 			first_names_male = {
 				Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
 				"José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo Enrique
@@ -505,7 +498,7 @@ breton = {
 				Alicia Antonia Carla Carmen Catalina Dolores Martina Julieta Antonella Renata
 			}
 			regnal_second_names = {
-				Fernandez Sanchez Lopez Martin Perez Gonzalez Alvarez Gomez Diaz
+				Dauphin
 			}
 		}
 
@@ -531,7 +524,7 @@ breton = {
 				Zeinab Reihaneh Mobina Narges Ma'soumeh Sakineh Aya Alma Amani Amira
 			}
 			regnal_second_names = {
-				arakat Abbas "Abdel Nour" Abboud al-Ahdal al-Jazari al-Samarrai Salman Qasim Qudsi Qaderi al-Qadi Farrokhzad Madani
+				Dauphin
 			}
 		}
 
@@ -564,12 +557,12 @@ breton = {
 				Kagiso Keneuwe Koketso Langalibalele Ntsebo Ntswaki Phathu Reneilwe Rudzani Shandu
 			}
 			regnal_second_names = {
-				Azikiwe Awolowo Balewa Akintola Nzeogwu Onwuatuegwu
+				Dauphin
 			}
 		}
 
 		names11 = {
-			weight = 15
+			weight = 20
 			first_names_male = {
 				Mario Luigi Giovanni Guiseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo Franco
 				Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo Silvio Umberto
@@ -593,7 +586,7 @@ breton = {
 				Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
 			}
 			regnal_second_names = {
-				Ferrari Bianchi Ricci Marino "De Luca" Costa Giordano
+				Dauphin
 			}
 		}
 	}
