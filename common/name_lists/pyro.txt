@@ -1,10 +1,10 @@
 ﻿### Commonwealth of Man
 ### Created by Henrik Thyrwall
 
-HUMAN2 = {
+PYRO = {
 	category = "Humanoid"
 	randomized = no
-	alias = "Human2"
+	alias = "Pyro"
 
 	ship_names = {
 
