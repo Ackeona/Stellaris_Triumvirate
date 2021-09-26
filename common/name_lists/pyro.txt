@@ -83,19 +83,19 @@ HUMAN2 = {
 		}
 
 		machine_defense = {
-			sequential_name = "%O% Colonial Gendarmerie"
+			sequential_name = "%O% 	Proleteri Corps"
 		}
 
 		machine_assault_1 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Sapery Regiment"
 		}
 
 		machine_assault_2 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Sturmpioniere Regiment"
 		}
 
 		machine_assault_3 = {
-			sequential_name = "%O% Assault Legion"
+			sequential_name = "%O% Gornostrelki Legion"
 		}
 
 		assault_army = {
@@ -115,19 +115,15 @@ HUMAN2 = {
 		}
 
 		robotic_army = {
-			sequential_name = "%O% Mot-Schützen Battlegroup"
+			sequential_name = "%O% 	Leichte Schützen Brigade"
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Unmanned Gendarmerie"
+			sequential_name = "%O% Reserveschützen Battalion"
 		}
 
 		psionic_army = {
-			random_names = {
-				"Shadow Legion" "Ghost Legion" "Wraith Legion" "Specter Legion" "Phantom Legion" "Widowmaker Legion" "Skull Legion" "Banshee Legion"
-				"Warlock Legion" "Reaper Legion"
-			}
-			sequential_name = "%O% Psy Warriors"
+			sequential_name = "%O% Panzerjäger Battalion"
 		}
 
 		xenomorph_army = {
@@ -139,7 +135,7 @@ HUMAN2 = {
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Occupation Legion"
+			sequential_name = "%O% Wachtregiment"
 		}
 
 		robotic_occupation_army = {
@@ -153,7 +149,7 @@ HUMAN2 = {
 
 		generic = {
 			names = {
-				Acrisia Aurora Capella Euterpe Faunus Hesperos Keresia Melpomenia Nexon Osiris Pallas Pallena Proclas
+				"Pyro's Pyro" "Pyro's Lesser Pyro" Acrisia Aurora Capella Euterpe Faunus Hesperos Keresia Melpomenia Nexon Osiris Pallas Pallena Proclas
 				Rhea Saon Smitheus Solaria Tethys Theia Destinikon Doron Hesperides Noricum Tyndis "Nova Constantinople"
 				Athura Tartessos Agartha "St. Knatchbull" "St. Caspar" Truett "St. Hossack" Flaxington Girdwood Fincastle
 				Rattenbury Grinstead Leffingwell Durkheim Treadway Hoxworth "Hinckley's Hope" Tronchet Knutton Corregan
@@ -163,7 +159,7 @@ HUMAN2 = {
 
 		pc_desert = {
 			names = {
-				"Frampton Sands" Sunrise "Nova Alexandria" Inferno
+				"Nova Pyro" "Frampton Sands" Sunrise "Nova Alexandria" Inferno
 			}
 		}
 
@@ -193,7 +189,7 @@ HUMAN2 = {
 
 		pc_ocean = {
 			names = {
-				Hyderia "Meredith Bay" Neritum "Port Bixby" "Port Snedden"
+				"Gulf of Pyro" Hyderia "Meredith Bay" Neritum "Port Bixby" "Port Snedden"
 			}
 		}
 
