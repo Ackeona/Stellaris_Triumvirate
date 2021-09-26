@@ -4,7 +4,7 @@
 HUMAN2 = {
 	category = "Humanoid"
 	randomized = no
-	alias = "Human2"
+	alias = "occitan"
 
 	ship_names = {
 
